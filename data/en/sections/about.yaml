@@ -1,0 +1,100 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data/ETL Architect
+# your company information
+company:
+  name: Cognizant
+  url: "https://www.cognizant.com/in/en"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Vivek Paradkar.pdf"
+
+# a summary about you
+summary: '
+- Innovative Technology Leader, Data/ETL Architect with more than 15 years’ experience in designing, developing, testing
+large scale data processing systems.
+
+- Eager about learning and adopting new technologies and best practices into my daily workflow.
+
+- Enjoy bringing new ideas and designing innovative solutions that solve business problems.
+
+- Solution and delivery focused, with experience in leading teams throughout project life cycle from requirements gathering
+to Production deployment and maintenance.
+
+- Data management expert knowledgeable across multiple areas including strategy, data architecture, data integration, data
+warehousing, data analytics, testing, metadata and data quality and data governance.
+
+- Flexible and able to work well under pressure.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "vivekparadkar@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/vivekparadkar"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/vivekparadkar"
+
+  
+- name: LinkedIn
+  icon: "fab fa-hackerrank"
+  url: "https://www.hackerrank.com/vivekparadkar"  
+  
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+badges:
+- type: certification
+  name: "Microsoft Certified: Azure Fundamentals"
+  url: "https://www.credly.com/badges/050e705f-6bbf-4dcf-ad8a-602f93f6de87"
+  badge: "https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
+
+- type: certification
+  name: "Microsoft Certified: Azure Data Fundamentals"
+  url: "https://www.credly.com/badges/7a3cfe77-3c87-42ef-9fca-bab36ff6d728"
+  badge: "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
+
+- type: certification
+  name: "AWS Certified Cloud Practitioner"
+  url: "https://www.credly.com/badges/0425f827-d6fd-4741-a285-40fcd4d71d57"
+  badge: "https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png"
+
+- type: certification
+  name: "SnowPro Core Certification"
+  url: "https://www.credly.com/badges/425007cf-7a66-4093-975d-557e2b2292a2"
+  badge: "https://images.credly.com/size/340x340/images/7a2ed5ab-2bed-4b5c-84e9-fc7c71275da4/SnowProCoreTM600.png"
+
+- type: certification
+  name: "[PCEP-30-01] PCEP – Certified Entry-Level Python Programmer"
+  url: "https://www.credly.com/badges/17d25d1c-f384-4e11-8363-ee5bcebded3b"
+  badge: "https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png"
+
+- type: certification
+  name: "[PCAP-NP-31-02] PCAP – Certified Associate in Python Programming"
+  url: "https://www.credly.com/badges/5145b0bf-b4b1-42cc-bf38-b0f1c535fa6d"
+  badge: "https://images.credly.com/size/340x340/images/5b6c6b6e-eab6-49e3-a8dd-072505d3188f/silver_2_small.png"
+  
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
