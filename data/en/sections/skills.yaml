@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Informatica
+#  logo: /images/sections/skills/informatica-logo.png
+  summary: "Developed data solutions using various informatica products such as   
+  
+  - Informatica Powercenter
+
+  - Informatica BDM
+  
+  - Informatica Data Quality
+  
+  - Informatica Metadata Manager
+
+  - Informatica MDM
+
+  - IICS
+  "
+
+- name: Python
+# logo: 
+  summary: "Used Python extensively to automate manual tasks, develop generic data normalization, data load tools."
+
+- name: Cloud
+# logo:
+  summary: "Good knowledge of multiple cloud platforms:
+  
+  - AWS
+  
+  - Azure
+  
+  - Snowflake
+  
+  - Databricks"
+
+- name: Linux
+# logo:
+  summary: "Used linux/unix extensively to orchestrate batch/real time data processing jobs. Implemented reusable, metadata driven job orchestration framework"
+
+- name: Databases
+  summary: "Developed data marts/data warehouse on multiple different databases Netezza, Oracle, Sybase IQ, Sybase ASE, Snowflake, Greenplum."
+
+- name: BigData
+# logo:
+  summary: "Used Hive, Spark, Sqoop, Pig to ingest and transform data from multiple data sources and store on HDP."
