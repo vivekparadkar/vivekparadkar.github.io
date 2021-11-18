@@ -1,0 +1,86 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Cognizant Technology Solutions
+  positions:
+  - designation: Architect
+    start: June 2016
+    responsibilities:
+    - Collaborated with business users to understand reporting needs and design/develop datamart for better data governance, quality and performance
+    - Performed POC on Informatica BDM (9.6.1, 10.1 and 10.2) to explore various features and limitations. Implement existing Powercenter mappings and give demo to customers on challenges and benefits using Informatica BDM.
+    - Designed and developed generic framework, data normalization scripts in Python to load data from multiple source systems into Netezza, Greenplum and snowflake
+    - Designed, developed dynamic mappings in Informatica BDM to ingest data from different sources and load data into HDP.
+    - Designed and developed a set of generic scripts in Powershell and KSH to automate process execution, Code review, Metadata generation and Testing
+    - Worked with Users, Netezza Admins to finalize approach for data encryption at rest in Netezza for user based access
+    - Worked with Production support, informatica admin team to design scripts to test data center migration, Informatica upgrade, data replication from DR and PRD
+    - Involved in peer review, unit testing review, provide support to develop and support team in case of issues
+
+  - designation: Technology Specialist
+    start: May 2012
+    end: June 2016
+    responsibilities:
+    - Gather business requirements by interacting with onshore counterparts and convert the functional specification into technical specification
+    - Prepare the necessary documents like Analysis and design Document, Unit test Plan, Deployment Checklist
+    - Ensured that standards and processes are followed at every stage of the project and do periodic quality checks of code
+    - Design and Develop High performance, Scalable and configurable UNIX Framework
+    - Design and Develop High performance, Scalable and configurable Data model and Informatica
+    - Design and Develop generic reader in Java to read data from multiple data sources such as flat files, database
+    - Designed generic self-service data migration tool to migrate data from Legacy system
+    - Lead a small team to develop Informatica , Oracle and Unix scripts
+    - Involved in code review and peer review, mentoring new members
+
+  - designation: Associate Projects
+    start: Feb 2010
+    end: May 2012
+    responsibilities:
+    - Gather business requirements by interacting with onshore counterparts and convert the functional specification into technical specification
+    - Prepare the necessary documents like Analysis and design document, unit test plan, deployment checklist
+    - Developed Workflows containing Sessions, Command Tasks, Worklets, Decision Tasks, Events 
+    - Developed Mappings containing Joiner, Sorter, Rank, Normalizer, Update Strategy, Lookup(Connected/Unconnected and Cached/Uncached), SQL, Aggregator, Router, Stored Procedure, Source Qualifier Transforms in Informatica.
+    - Ensured that standards and processes are followed at every stage of the project and do periodic quality checks of code   
+
+- company:
+    name: Polaris Software Lab
+  positions:
+  - designation: Associate Consultant
+    start: Nov 2007
+    end: Jan 2010
+    responsibilities:
+    - Developed Workflows containing Sessions, Command Tasks, Worklets, Decision Tasks, Events 
+    - Developed Mappings containing Joiner, Sorter, Rank, Normalizer, Update Strategy, Lookup(Connected/Unconnected and Cached/Uncached), SQL, Aggregator, Router, Stored Procedure, Source Qualifier Transforms in Informatica.
+    - Involved in Performance tuning of Informatica Sessions.
+    - Develop Wrapper scripts for calling Ab Initio graphs.
+    - Used Cron, Informatica Scheduler and Autosys job schedulers to schedule different jobs/scripts
+    - Developed Stored Procedures and Functions.
+    - Involved in performance tuning of Oracle SQL, PLSQL.
+    - Used DBMS_APPLICATION_INFO Package to track critical queries for any bottlenecks in the application.
+    - Used Pipeline and deterministic functions to improve performance of complex SQL queries.
+    - Used DBMS_LOCK package to streamline the Logging operation of different Procedures/Functions into a single application level log file.
+
+- company:
+    name: Tata Consultancy Services
+  positions:
+  - designation: Assistant System Engineer
+    start: Oct 2005
+    end: Nov 2007
+    responsibilities:
+    - Exploring new ways of tuning the overall performance of the system (multi-streaming of jobs, table purging, restructuring codes) and confirm their feasibility
+    - Analyzing problem at different levels –application, code, sever, database and providing appropriate solution for the same. 
+    - Interacting directly with clients and giving them real-time solutions 
+    - Owning total responsibility for all production issues.
+    - Writing PL-SQL and UNIX shell scripts for defect analysis and fixes. 
+    - Providing support to production issues needing immediate attention.
+    - Restructuring Batch execution scripts for performance tuning.
+    - Reviewing all enhancements to any component from performance point of view and if required change the approach note
+    - Providing technical assistance to my team members and other teams.
+    - User training and knowledge transfer activities.
