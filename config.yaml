@@ -23,6 +23,9 @@ enableEmoji: true
 
 # Site parameters
 params:
+  # Background Image
+  #background: images/dark_background.png
+
   # GitHub repo URL of your site
   gitRepo: https://github.com/vivekparadkar/vivekparadkar.github.io
 
@@ -36,3 +39,9 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+  # Dark Mode
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
