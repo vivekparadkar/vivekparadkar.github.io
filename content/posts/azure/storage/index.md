@@ -7,6 +7,7 @@ menu:
     identifier: azure-storage
     parent: azure
     weight: 20
+draft: true
 ---
 
 - Microsoft's cloud storage solution for modern data storage scenarios
