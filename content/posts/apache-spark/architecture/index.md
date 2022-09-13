@@ -7,6 +7,7 @@ menu:
     identifier: apache-spark-architecture
     parent: apache-spark
     weight: 10
+draft: true
 ---
 
 - Unified Computing engine and set of libraries for parallel data processing on compute cluster.
